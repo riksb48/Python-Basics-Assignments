@@ -14,5 +14,4 @@ def main():
 
     print(f"\nThe largest number is: {largest}")
 
-if __name__ == "__main__":
-    main()
+
