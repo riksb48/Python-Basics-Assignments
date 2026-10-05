@@ -12,6 +12,6 @@ def main():
     else:
         largest = c
 
-    print(f"\nThe largest number is: {largest}")
+    print(f"The largest number is: {largest}")
 
 main()
