@@ -1,5 +1,5 @@
 def main():
-    print("=== Assignment 2: Largest of Three Numbers ===\n")
+    print("Assignment 2: Largest of Three Numbers")
 
     a = int(input("Enter first number: "))
     b = int(input("Enter second number: "))
