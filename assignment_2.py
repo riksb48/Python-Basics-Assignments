@@ -14,4 +14,4 @@ def main():
 
     print(f"\nThe largest number is: {largest}")
 
-
+main()
